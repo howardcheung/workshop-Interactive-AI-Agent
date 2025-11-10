@@ -30,4 +30,4 @@ To run the Agentic AI interface for a topic writer, please finish the setup unde
    ```
 6. Enjoy the writer with any topic you can think of!
 
-![Interface with completed article](/figures/running.png "Interface with completed article")
+![Interface with completed article](/Tutorial%20Example/figures/running.png "Interface with completed article")
