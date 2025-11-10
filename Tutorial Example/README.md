@@ -1,6 +1,6 @@
 # An Agentic AI-assited writer for various topics
 
-Let's try to have an agentic AI with the PocketFlow example for a topic write at [here](https://github.com/The-Pocket/PocketFlow/tree/main/cookbook/pocketflow-workflow) with a web-browser based interface with [Streamlit](https://streamlit.io/) to start the day!
+Let's try to have an agentic AI with a PocketFlow example of a topic writer [here](https://github.com/The-Pocket/PocketFlow/tree/main/cookbook/pocketflow-workflow) in a web-browser based interface with [Streamlit](https://streamlit.io/) to start the day!
 
 ## How it works
 
