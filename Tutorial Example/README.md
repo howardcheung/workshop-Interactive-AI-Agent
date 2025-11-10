@@ -2,7 +2,7 @@
 
 Let's try to have an agentic AI with the PocketFlow example for a topic write at [here](https://github.com/The-Pocket/PocketFlow/tree/main/cookbook/pocketflow-workflow) with a web-browser based interface with [Streamlit](https://streamlit.io/) to start the day!
 
-## Preparation
+## How it works
 
 To run the Agentic AI interface for a topic writer, please finish the setup under [Tutorial 0](https://github.com/howardcheung/workshop-Interactive-AI-Agent/tree/main/Tutorial%200). Once you have done that, do the following
 
@@ -29,3 +29,5 @@ To run the Agentic AI interface for a topic writer, please finish the setup unde
    streamlit run app.py --server.port 8081
    ```
 6. Enjoy the writer with any topic you can think of!
+
+![Interface with completed article](/figures/running.png "Interface with completed article")
