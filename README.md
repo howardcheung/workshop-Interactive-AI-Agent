@@ -18,3 +18,11 @@ To do so, here are the tutorials:
 * Tutorial Bonus: Finetuning your LLM for a very specific application
 
 But before all that, you need to download this repository to your own computer. On the top right hand corner, click the button "Code" -> "Download ZIP" and extract all files to begin!
+
+# References
+
+This workshop utilizes multiple apps for completion, including
+
+[Anaconda](https://anaconda.org/)
+[PocketFlow](https://github.com/The-Pocket/PocketFlow?tab=readme-ov-file)
+[Streamlit](https://streamlit.io/)
