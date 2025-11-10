@@ -17,4 +17,4 @@ To do so, here are the tutorials:
 * Tutorial 3: Working with the intermediates 2 - Pocketflow for the AI agents
 * Tutorial Bonus: Finetuning your LLM for a very specific application
 
-
+But before all that, you need to download this repository to your own computer. On the top right hand corner, click the button "Code" -> "Download ZIP" and extract all files to begin!
