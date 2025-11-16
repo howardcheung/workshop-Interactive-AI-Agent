@@ -8,7 +8,7 @@ First you need to install Anaconda. Follow this [link](https://www.anaconda.com/
 
 ## Ollama
 
-Before any tutorial, you need to have a large language model (LLM) on your computer. To do so, we use [Ollama](https://ollama.com/download/). Similar to the previous case, first you need to download it and install it.
+You will also need to have a large language model (LLM) on your computer. To do so, we use [Ollama](https://ollama.com/download/). Similar to the previous case, first you need to download it and install it.
 
 After that, follow the instructions below:
 
