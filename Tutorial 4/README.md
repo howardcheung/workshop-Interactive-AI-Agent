@@ -128,3 +128,5 @@ Let's learn it by doing! Can you try to edit the prompt such that
 
 * Use another LLM from Ollama and see how the outputs differ? Find another Ollama model, pull it and edit call_llm.py to do it. Which one do you prefer?
 * Can you change *nodes.py* to add an abstract before all 3 main sections?
+
+Need more challenges? You may check out other applications at [Pockectflow](https://github.com/The-Pocket/PocketFlow/blob/main/cookbook/pocketflow-workflow/README.md) and try to integrate them with the *Streamlit* interface.
