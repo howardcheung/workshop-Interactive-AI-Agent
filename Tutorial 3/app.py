@@ -10,11 +10,11 @@ This demo illustrates a combination of plotting and animation with Streamlit. We
 
 progress_bar = st.sidebar.progress(0)
 status_text = st.sidebar.empty()
-last_rows = np.random.randn(1, 1)  # noqa: NPY002
-chart = st.line_chart(last_rows)
+last_rows = np.random.randn(1, 1)
+chart = st.bar_chart(last_rows)
 
 for i in range(1, 101):
-    new_rows = last_rows[-1, :] + np.random.randn(5, 1).cumsum(axis=0)  # noqa: NPY002
+    new_rows = last_rows[-1, :] + np.random.randn(5, 1).cumsum(axis=0)
     status_text.text(f"{i}% complete")
     chart.add_rows(new_rows)
     progress_bar.progress(i)
