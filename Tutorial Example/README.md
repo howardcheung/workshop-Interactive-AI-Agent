@@ -11,11 +11,13 @@ To run the Agentic AI interface for a topic writer, please finish the setup unde
    ```
    conda create -n pocketflow python=3.10 pip jupyter pandas   
    ```
+   Note that you only need to do this once.
 3. Start the virtual environment and prepare it using the following commands:
    ```
    conda activate pocketflow
-   conda install streamlit pocketflow openai
+   pip install streamlit pocketflow openai
    ```
+   Note that you only need to run *pip install streamlit pocketflow openai* once only. You only need to run *conda activate pocketflow* the next time you would like to run this again.
 4. Move the current working directory of the promt to this directory with the *cd* command. To check it, type
    ```
    pwd
